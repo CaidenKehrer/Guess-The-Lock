@@ -1,6 +1,6 @@
 # Guess The Lock
 
-This project is a game called "Guess The Lock" where players attempt to guess a combination lock code.
+This project is a game called "Guess The Lock" where players attempt to guess a combination lock code. I made it after I saw a tiktok doing a similar game and so I took about 10 minutes and made my version so I could play at any difficulty I wanted.
 
 ## Environment
 
