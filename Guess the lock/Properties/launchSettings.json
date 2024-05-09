@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Guess the lock": {
+      "commandName": "Project",
+      "commandLineArgs": "-l 3 -t 5"
+    }
+  }
+}
