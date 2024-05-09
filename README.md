@@ -9,8 +9,6 @@ This project is a game called "Guess The Lock" where players attempt to guess a 
 
 ## Description
 
-## Description
-
 "Guess The Lock" is a command-line game written in C#. The game generates a random combination lock code of a specified length and the player has a certain number of turns to guess the code.
 
 The game starts by accepting two command-line arguments: `--length <length>` and `--gameTurns <gameTurns>`. The `length` argument determines the length of the lock combination, and `gameTurns` sets the number of turns the player has to guess the combination.
